@@ -1,0 +1,15 @@
+Level,Language,Tweets,PhD,Hire
+Senior,Java,No,No,FALSE
+Senior,Java,No,Yes,FALSE
+Mid,Python,No,No,TRUE
+Junior,Python,No,No,TRUE
+Junior,R,Yes,No,TRUE
+Junior,R,Yes,Yes,FALSE
+Mid,R,Yes,Yes,TRUE
+Senior,Python,No,No,FALSE
+Senior,R,Yes,No,TRUE
+Junior,Python,Yes,No,TRUE
+Senior,Python,Yes,Yes,TRUE
+Mid,Python,No,Yes,TRUE
+Mid,Java,Yes,Yes,TRUE
+Junior,Python,No,Yes,FALSE
